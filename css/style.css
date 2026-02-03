@@ -9168,10 +9168,10 @@ textarea.form-control {
 
   /* LinkedIn icon background color (overrides default) */
   .ftco-footer-social li a[href*="linkedin"] {
-    background: #0077B5; /* LinkedIn blue */
+    background: #ffbd39; /* yellow accent */
   }
   .ftco-footer-social li a[href*="linkedin"] span {
-    color: #ffffff; /* white icon on blue background */
+    color: #000000; /* black icon on yellow background */
   }
 
 #map {
