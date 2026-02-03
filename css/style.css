@@ -9166,6 +9166,14 @@ textarea.form-control {
   .media .ftco-icon span {
     color: #ffbd39; }
 
+  /* LinkedIn icon background color (overrides default) */
+  .ftco-footer-social li a[href*="linkedin"] {
+    background: #0077B5; /* LinkedIn blue */
+  }
+  .ftco-footer-social li a[href*="linkedin"] span {
+    color: #ffffff; /* white icon on blue background */
+  }
+
 #map {
   width: 100%; }
   @media (max-width: 767.98px) {
